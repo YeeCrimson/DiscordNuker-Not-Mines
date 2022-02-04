@@ -21,7 +21,7 @@ baner = f'''
 {r}|  \| | | | | |/ / _ {m}\  _ \ / _ \| __|
 {r}| |\  | |_| |   <  __{m}/ |_) | (_) | |_ 
 {r}|_| \_|\__,_|_|\_\___{m}|____/ \___/ \__|
-{y}Made by: {g}https://github.com/Sigma-cc'''
+{y}Made by: {g}PRURIOE #1 ON TOP'''
 
 
 
@@ -97,7 +97,7 @@ while True:
 {baner}                
 {c}--------------------------------------------
 {b}[Menu]
-    {y}└─[1] {m}- {g}Run Setup Nuke Bot
+    {y}└─[1] {m}- {g}SUBSCRIBE TO "Prurioe"
     {y}└─[2] {m}- {g}Exit
 {y}====>{g}''')
     if choice == '1':
